@@ -30,7 +30,7 @@ README.md: The main README file.
 Getting Started
 To get started, follow these steps:
 
-Clone this repository using git clone https://github.com/your-username/deep-learning-intro-journey.git
+Clone this repository using git clone https://github.com/iamyaa/DLE.git
 Navigate to the relevant tutorial directories (python_tutorials or r_tutorials) to access the materials.
 Python Tutorials
 In the python_tutorials directory, you'll find a series of tutorials covering various aspects of deep learning using Python. Each tutorial includes detailed explanations and code examples.
